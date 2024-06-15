@@ -9,6 +9,10 @@ This is a full-stack web application built using the MERN (MongoDB, Express.js, 
 - View a list of all workouts with exercise details (title, load, reps)
 - MongoDB database for data persistence
 
+## Screenshots
+
+![Home Screen](screenshots/home.png)
+
 ## Technologies Used
 
 - **MongoDB**: NoSQL database for storing workout data
