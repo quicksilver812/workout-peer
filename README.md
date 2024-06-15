@@ -25,7 +25,7 @@ This is a full-stack web application built using the MERN (MongoDB, Express.js, 
 ### Prerequisites
 
 - Node.js and npm (Node Package Manager) installed on your machine
-- MongoDB installed and running locally, or a MongoDB Atlas account
+- MongoDB Atlas account, with a database created
 
 ### Installation
 
