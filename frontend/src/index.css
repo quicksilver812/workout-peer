@@ -3,16 +3,16 @@
 
 /* layout */
 :root {
-  --primary: #1aac83;
+  --primary: #CE6A6C;
   --error: #e7195a;
 }
 body {
-  background: #f1f1f1;
+  background: #ffe8e4;
   margin: 0;
   font-family: "Poppins";
 }
 header {
-  background: #fff;
+  background: #F9C7BE;
 }
 header .container {
   max-width: 1400px;
@@ -39,7 +39,7 @@ header a {
   gap: 100px;
 }
 .workout-details {
-  background: #fff;
+  background: #F9C7BE;
   border-radius: 4px;
   margin: 20px auto;
   padding: 20px;
