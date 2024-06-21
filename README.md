@@ -1,4 +1,4 @@
-# MERN Workout Tracker
+# Workout Peer - MERN Workout Tracker
 
 This is a full-stack web application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. It allows users to track their workouts by adding and deleting exercises, along with the ability to view workout details such as title, load in kilograms, and number of repetitions.
 
